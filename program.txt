@@ -1,0 +1,9 @@
+x = 23 + 12 ;
+
+while(x < 100){
+	out x ;
+	x = x + 1 ;
+}
+
+if (x == 100)
+	out true
